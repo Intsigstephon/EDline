@@ -1,2 +1,2 @@
-# lsd_research
-Deep Research about  Lsd
+# EDline
+A real-time line detecting algorithm.
